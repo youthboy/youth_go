@@ -2,6 +2,7 @@ package utils
 
 // InitConf 读取配置文件
 func InitConf() {
+
 	//const ConfigFile = "./setting/config.yaml"
 	//c := &config.Config{}
 	//yamlConfig, err := ioutil.ReadFile(ConfigFile)
