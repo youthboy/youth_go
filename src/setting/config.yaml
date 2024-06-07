@@ -1,0 +1,9 @@
+mysql:
+    host: 127.0.0.1
+    port: 3306
+    dbname: 1102
+    username: root
+    password:
+otohat:
+    host: 127.0.0.1
+    port: 80
